@@ -1,0 +1,29 @@
+{
+    "SimpleCollector": {
+        "checkpoints": [
+            {
+                "steps": 361359,
+                "file_path": "results\\start\\SimpleCollector\\SimpleCollector-361359.onnx",
+                "reward": 11.963057235097201,
+                "creation_time": 1651604798.277735,
+                "auxillary_file_paths": [
+                    "results\\start\\SimpleCollector\\SimpleCollector-361359.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 361359,
+            "file_path": "results\\start\\SimpleCollector.onnx",
+            "reward": 11.963057235097201,
+            "creation_time": 1651604798.277735,
+            "auxillary_file_paths": [
+                "results\\start\\SimpleCollector\\SimpleCollector-361359.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

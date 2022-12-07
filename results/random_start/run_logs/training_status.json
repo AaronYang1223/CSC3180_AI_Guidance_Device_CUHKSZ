@@ -1,0 +1,47 @@
+{
+    "SimpleCollector": {
+        "checkpoints": [
+            {
+                "steps": 191310,
+                "file_path": "results\\random_start\\SimpleCollector\\SimpleCollector-191310.onnx",
+                "reward": null,
+                "creation_time": 1651601625.93767,
+                "auxillary_file_paths": [
+                    "results\\random_start\\SimpleCollector\\SimpleCollector-191310.pt"
+                ]
+            },
+            {
+                "steps": 499994,
+                "file_path": "results\\random_start\\SimpleCollector\\SimpleCollector-499994.onnx",
+                "reward": 11.9010524247822,
+                "creation_time": 1651602810.5295367,
+                "auxillary_file_paths": [
+                    "results\\random_start\\SimpleCollector\\SimpleCollector-499994.pt"
+                ]
+            },
+            {
+                "steps": 626757,
+                "file_path": "results\\random_start\\SimpleCollector\\SimpleCollector-626757.onnx",
+                "reward": -1.8144447538587782,
+                "creation_time": 1651602939.3436651,
+                "auxillary_file_paths": [
+                    "results\\random_start\\SimpleCollector\\SimpleCollector-626757.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 626757,
+            "file_path": "results\\random_start\\SimpleCollector.onnx",
+            "reward": -1.8144447538587782,
+            "creation_time": 1651602939.3436651,
+            "auxillary_file_paths": [
+                "results\\random_start\\SimpleCollector\\SimpleCollector-626757.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

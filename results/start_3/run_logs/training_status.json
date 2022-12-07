@@ -1,0 +1,65 @@
+{
+    "SimpleCollector": {
+        "checkpoints": [
+            {
+                "steps": 10499932,
+                "file_path": "results\\start_3\\SimpleCollector\\SimpleCollector-10499932.onnx",
+                "reward": 6.6644415855407715,
+                "creation_time": 1651647023.7766209,
+                "auxillary_file_paths": [
+                    "results\\start_3\\SimpleCollector\\SimpleCollector-10499932.pt"
+                ]
+            },
+            {
+                "steps": 10999906,
+                "file_path": "results\\start_3\\SimpleCollector\\SimpleCollector-10999906.onnx",
+                "reward": 12.859999656677246,
+                "creation_time": 1651648153.158622,
+                "auxillary_file_paths": [
+                    "results\\start_3\\SimpleCollector\\SimpleCollector-10999906.pt"
+                ]
+            },
+            {
+                "steps": 11499976,
+                "file_path": "results\\start_3\\SimpleCollector\\SimpleCollector-11499976.onnx",
+                "reward": 12.31444231669108,
+                "creation_time": 1651649281.5423667,
+                "auxillary_file_paths": [
+                    "results\\start_3\\SimpleCollector\\SimpleCollector-11499976.pt"
+                ]
+            },
+            {
+                "steps": 11999967,
+                "file_path": "results\\start_3\\SimpleCollector\\SimpleCollector-11999967.onnx",
+                "reward": 10.811997985839843,
+                "creation_time": 1651650415.6930213,
+                "auxillary_file_paths": [
+                    "results\\start_3\\SimpleCollector\\SimpleCollector-11999967.pt"
+                ]
+            },
+            {
+                "steps": 12205083,
+                "file_path": "results\\start_3\\SimpleCollector\\SimpleCollector-12205083.onnx",
+                "reward": 10.560997724533081,
+                "creation_time": 1651650932.994829,
+                "auxillary_file_paths": [
+                    "results\\start_3\\SimpleCollector\\SimpleCollector-12205083.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 12205083,
+            "file_path": "results\\start_3\\SimpleCollector.onnx",
+            "reward": 10.560997724533081,
+            "creation_time": 1651650932.994829,
+            "auxillary_file_paths": [
+                "results\\start_3\\SimpleCollector\\SimpleCollector-12205083.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
